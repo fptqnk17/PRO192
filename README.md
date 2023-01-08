@@ -12,4 +12,4 @@
 - Workshops:
   - Workshop1: [Click here!!!](https://github.com/hardingadonis/PRO192-Workshops_and_Assignment/blob/main/Workshops/Workshop1)
 
-- Assignment: [Click here!!!](https://github.com/hardingadonis/PRF192-Workshops_and_Assignment/blob/main/Assignment)
+- Assignment: [Click here!!!](https://github.com/hardingadonis/PRO192-Workshops_and_Assignment/blob/main/Assignment)
