@@ -1,5 +1,6 @@
-# PRO192-Workshops_and_Assignment
-> All source code about PRO192 that I learned at FPT University QN AI Campus.
+# PRO192 - Workshops and Assignment
+> All source code about PRO192 that I learned at FPT University QN AI Campus.  
+> Require: [PRF192](https://github.com/hardingadonis/PRF192-Workshops_and_Assignment)
 
 ![Languages](https://img.shields.io/github/languages/top/hardingadonis/PRO192-Workshops_and_Assignment?style=flat)
 ![Repo Size](https://img.shields.io/github/repo-size/hardingadonis/PRO192-Workshops_and_Assignment?style=flat)
