@@ -13,5 +13,7 @@
 - Workshops:
   - Workshop1: [Click here!!!](https://github.com/hardingadonis/PRO192-Workshops_and_Assignment/blob/main/Workshops/Workshop1)
   - Workshop3: [Click here!!!](https://github.com/hardingadonis/PRO192-Workshops_and_Assignment/blob/main/Workshops/Workshop3)
+  - Workshop4: [Click here!!!](https://github.com/hardingadonis/PRO192-Workshops_and_Assignment/blob/main/Workshops/Workshop4)
+  - Workshop5: [Click here!!!](https://github.com/hardingadonis/PRO192-Workshops_and_Assignment/blob/main/Workshops/Workshop5)
 
 - Assignment: [Click here!!!](https://github.com/hardingadonis/PRO192-Workshops_and_Assignment/blob/main/Assignment)
