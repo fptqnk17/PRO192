@@ -1,9 +1,16 @@
 # PRO192 - Workshops and Assignment
-> All source code about PRO192 that I learned at FPT University QN AI Campus.  
-> Require: [PRF192](https://github.com/fptqnk17/PRF192)
 
 ![Languages](https://img.shields.io/github/languages/top/fptqnk17/PRO192?style=flat)
 ![Repo Size](https://img.shields.io/github/repo-size/fptqnk17/PRO192?style=flat)
+
+> All source code about PRO192 that I learned at FPT University QN AI Campus.  
+> Require: [PRF192](https://github.com/fptqnk17/PRF192)
+
+## 📢 Advertisement
+
+<img src="https://raw.githubusercontent.com/fptqnk17/.github/refs/heads/main/images/banner-bao-thu.png" alt="Advertisement" />
+
+---
 
 ## Requirements
 - JDK 17 or above.
